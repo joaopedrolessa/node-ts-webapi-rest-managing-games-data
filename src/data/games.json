@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "publisher": "Nintendo",
+    "nationality": "Japan",
+    "year": 2017,
+    "genre": "Action-adventure",
+    "age": 12
+  },
+  {
+    "id": 2,
+    "name": "The Witcher 3: Wild Hunt",
+    "publisher": "CD Projekt",
+    "nationality": "Poland",
+    "year": 2015,
+    "genre": "Action RPG",
+    "age": 18
+  },
+  {
+    "id": 3,
+    "name": "Minecraft",
+    "publisher": "Mojang",
+    "nationality": "Sweden",
+    "year": 2011,
+    "genre": "Sandbox",
+    "age": 7
+  },
+  {
+    "id": 4,
+    "name": "Fortnite",
+    "publisher": "Epic Games",
+    "nationality": "USA",
+    "year": 2017,
+    "genre": "Battle Royale",
+    "age": 12
+  },
+  {
+    "id": 5,
+    "name": "Red Dead Redemption 2",
+    "publisher": "Rockstar Games",
+    "nationality": "USA",
+    "year": 2018,
+    "genre": "Action-adventure",
+    "age": 18
+  },
+  {
+    "id": 6,
+    "name": "Overwatch",
+    "publisher": "Blizzard Entertainment",
+    "nationality": "USA",
+    "year": 2016,
+    "genre": "First-person shooter",
+    "age": 12
+  },
+  {
+    "id": 7,
+    "name": "God of War",
+    "publisher": "Sony Interactive Entertainment",
+    "nationality": "USA",
+    "year": 2018,
+    "genre": "Action-adventure",
+    "age": 18
+  },
+  {
+    "id": 8,
+    "name": "Cyberpunk 2077",
+    "publisher": "CD Projekt",
+    "nationality": "Poland",
+    "year": 2020,
+    "genre": "Action RPG",
+    "age": 18
+  },
+  {
+    "id": 9,
+    "name": "Among Us",
+    "publisher": "InnerSloth",
+    "nationality": "USA",
+    "year": 2018,
+    "genre": "Party",
+    "age": 10
+  },
+  {
+    "id": 10,
+    "name": "Hades",
+    "publisher": "Supergiant Games",
+    "nationality": "USA",
+    "year": 2020,
+    "genre": "Roguelike",
+    "age": 12
+  },
+  {
+    "id": 11,
+    "name": "Animal Crossing: New Horizons",
+    "publisher": "Nintendo",
+    "nationality": "Japan",
+    "year": 2020,
+    "genre": "Social simulation",
+    "age": 3
+  },
+  {
+    "id": 12,
+    "name": "Doom Eternal",
+    "publisher": "Bethesda Softworks",
+    "nationality": "USA",
+    "year": 2020,
+    "genre": "First-person shooter",
+    "age": 18
+  },
+  {
+    "id": 13,
+    "name": "Final Fantasy VII Remake",
+    "publisher": "Square Enix",
+    "nationality": "Japan",
+    "year": 2020,
+    "genre": "Action RPG",
+    "age": 16
+  },
+  {
+    "id": 14,
+    "name": "Ghost of Tsushima",
+    "publisher": "Sony Interactive Entertainment",
+    "nationality": "USA",
+    "year": 2020,
+    "genre": "Action-adventure",
+    "age": 17
+  },
+  {
+    "id": 15,
+    "name": "Call of Duty: Warzone",
+    "publisher": "Activision",
+    "nationality": "USA",
+    "year": 2020,
+    "genre": "Battle Royale",
+    "age": 18
+  },
+  {
+    "id": 16,
+    "name": "Genshin Impact",
+    "publisher": "miHoYo",
+    "nationality": "China",
+    "year": 2020,
+    "genre": "Action RPG",
+    "age": 12
+  },
+  {
+    "id": 17,
+    "name": "League of Legends",
+    "publisher": "Riot Games",
+    "nationality": "USA",
+    "year": 2009,
+    "genre": "MOBA",
+    "age": 12
+  },
+  {
+    "id": 18,
+    "name": "Resident Evil Village",
+    "publisher": "Capcom",
+    "nationality": "Japan",
+    "year": 2021,
+    "genre": "Survival horror",
+    "age": 18
+  },
+  {
+    "id": 19,
+    "name": "Halo Infinite",
+    "publisher": "Xbox Game Studios",
+    "nationality": "USA",
+    "year": 2021,
+    "genre": "First-person shooter",
+    "age": 16
+  },
+  {
+    "id": 20,
+    "name": "Elden Ring",
+    "publisher": "Bandai Namco Entertainment",
+    "nationality": "Japan",
+    "year": 2022,
+    "genre": "Action RPG",
+    "age": 17
+  },
+  {
+    "id": 5050,
+    "name": "Metal Gear",
+    "publisher": "Konami",
+    "nationality": "Japan",
+    "year": 1998,
+    "genre": "Action",
+    "age": 18
+  }
+]

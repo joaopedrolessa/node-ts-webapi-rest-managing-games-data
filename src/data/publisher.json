@@ -1,0 +1,75 @@
+[
+    [
+        [
+            {
+                "id": 1,
+                "name": "Nintendo"
+            },
+            {
+                "id": 2,
+                "name": "CD Projekt"
+            },
+            {
+                "id": 3,
+                "name": "Mojang"
+            },
+            {
+                "id": 4,
+                "name": "Epic Games"
+            },
+            {
+                "id": 5,
+                "name": "Rockstar Games"
+            },
+            {
+                "id": 6,
+                "name": "Blizzard Entertainment"
+            },
+            {
+                "id": 7,
+                "name": "Sony Interactive Entertainment"
+            },
+            {
+                "id": 8,
+                "name": "InnerSloth"
+            },
+            {
+                "id": 9,
+                "name": "Supergiant Games"
+            },
+            {
+                "id": 10,
+                "name": "Bethesda Softworks"
+            },
+            {
+                "id": 11,
+                "name": "Square Enix"
+            },
+            {
+                "id": 12,
+                "name": "Activision"
+            },
+            {
+                "id": 13,
+                "name": "miHoYo"
+            },
+            {
+                "id": 14,
+                "name": "Riot Games"
+            },
+            {
+                "id": 15,
+                "name": "Capcom"
+            },
+            {
+                "id": 16,
+                "name": "Xbox Game Studios"
+            },
+            {
+                "id": 17,
+                "name": "Bandai Namco Entertainment"
+            }
+        ] 
+    ]
+    
+]
